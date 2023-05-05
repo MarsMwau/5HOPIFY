@@ -5,7 +5,7 @@ const Cart = ({ cartItems, onRemoveFromCart, totalPrice }) => {
       <div className="col-md-12">
         <h3 className="display-6 fw-bold my-4">Cart</h3>
         {cartItems.length === 0 ? (
-          <p></p>
+          <p>Cart is empty</p>
         ) : (
           <ul className="list-group">
             {cartItems.map((item) => (
@@ -15,7 +15,7 @@ const Cart = ({ cartItems, onRemoveFromCart, totalPrice }) => {
               </li>
             ))}
             <li className="list-group-item d-flex justify-content-between align-items-center fw-bold">
-              Total
+           
               <span>{totalPrice}</span>
             </li>
           </ul>
