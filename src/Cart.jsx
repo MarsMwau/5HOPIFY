@@ -14,7 +14,10 @@ const Cart = ({ cartItems, onRemoveFromCart, totalPrice }) => {
                 <button className="btn btn-outline-danger" onClick={() => onRemoveFromCart(item)}>Remove</button>
               </li>
             ))}
-           
+            <li className="list-group-item d-flex justify-content-between align-items-center fw-bold">
+              Total
+              <span>{totalPrice}</span>
+            </li>
           </ul>
         )}
       </div>
