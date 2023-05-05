@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Name of the Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ My Shopify
+### Author : Group 4; Date 5th May 2023
 
-## Available Scripts
+## Project Description
 
-In the project directory, you can run:
+My shopify is an eccomerce application having diffrent products.he products available on the app are categorized into different categories, allowing users to easily navigate through the app and find the products they are looking for.When a user clicks on a specific category, the app generates a list of all the products available under that category. This helps users to quickly find the products they are interested in without having to scroll through the entire inventory. The user interface is designed to be user-friendly, making it easy for users to find what they are looking for and they can add them to cart.The products available on the app are categorized into different categories, allowing users to easily navigate through the app and find the products they are looking for.
 
-### `npm start`
+## SCREENSHOTS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot from 2023-05-05 08-32-35](https://user-images.githubusercontent.com/127226487/236384942-2bfe8cd2-f950-4bfe-adac-6231bc928c91.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![Screenshot from 2023-05-05 08-34-03](https://user-images.githubusercontent.com/127226487/236385000-76377303-7d94-431d-97f1-037e5b9ba9ce.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![Screenshot from 2023-05-05 08-31-45](https://user-images.githubusercontent.com/127226487/236385105-12ac0c6e-09df-4326-88f8-f1b51f75732e.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## SetUp Instruction
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Requirements
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. React.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Node.js
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. GitHub
 
-## Learn More
+4. An editor e.g VS Code
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. An Api
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Getting Files
 
-### Code Splitting
+* Fork the repo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Create a new branch in your terminal (git checkout -b improve-feature)
 
-### Analyzing the Bundle Size
+- Install the prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Make appropriate changes in file(s)
 
-### Making a Progressive Web App
+- Run the server to see the changes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Add the changes and commit them (git commit -am "Improve App")
 
-### Advanced Configuration
+- Push to the branch (git push origin improve-app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Create a Pull request
 
-### Deployment
+* Open the folder location on terminal and use the following command to run app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## How To Run It
 
-### `npm run build` fails to minify
+>  1. Run nmp install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   2. Run npm start
+
+
+## Live Link
+
+## Dependencies
+
+- React router
+
+- React 
+
+- Bootstrap
+
+## Technologies Used
+1. React
+
+2. JSON Server
+
+3. Node.js
+
+4. npm
+
+
+
+## Contact Information
+
+* Email : example@gmail.com
+
+## [License](LICENSE)
+
+MIT License
+
+Copyright (c) YEAR 2023 
