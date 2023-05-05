@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* NavBar */
+.navbar-nav a{
+  font-size: 20px;
+}
+.buttons{
+  padding-right: 20px;
+}
