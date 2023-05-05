@@ -64,6 +64,7 @@ My shopify is an eccomerce application having diffrent products.he products avai
 
 
 ## Live Link
+https://5-hopify.vercel.app/
 
 ## Dependencies
 
@@ -86,10 +87,11 @@ My shopify is an eccomerce application having diffrent products.he products avai
 
 ## Contact Information
 
-* Email : marthamumbua16@gmail.com
-          willbrian009@gmail.com
-          muhurimwangi002@gmail.com
-          maxmwangikenya@gmail.com
+* Email : marthamumbua16@gmail.com :
+          willbrian009@gmail.com :
+          muhurimwangi002@gmail.com :
+          maxmwangikenya@gmail.com : 
+          kokimalinda@gmail.com
 
 ## [License](LICENSE)
 
