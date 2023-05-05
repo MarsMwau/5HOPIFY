@@ -9,13 +9,15 @@ My shopify is an eccomerce application having diffrent products.he products avai
 
 ## SCREENSHOTS
 
+ ![Screenshot from 2023-05-05 08-31-45](https://user-images.githubusercontent.com/127226487/236385105-12ac0c6e-09df-4326-88f8-f1b51f75732e.png)
+
 ![Screenshot from 2023-05-05 08-32-35](https://user-images.githubusercontent.com/127226487/236384942-2bfe8cd2-f950-4bfe-adac-6231bc928c91.png)
 
 
 ![Screenshot from 2023-05-05 08-34-03](https://user-images.githubusercontent.com/127226487/236385000-76377303-7d94-431d-97f1-037e5b9ba9ce.png)
 
 
-![Screenshot from 2023-05-05 08-31-45](https://user-images.githubusercontent.com/127226487/236385105-12ac0c6e-09df-4326-88f8-f1b51f75732e.png)
+
 
 
 
@@ -84,7 +86,7 @@ My shopify is an eccomerce application having diffrent products.he products avai
 
 ## Contact Information
 
-* Email : example@gmail.com
+* Email : marthamumbua16@gmail.com
 
 ## [License](LICENSE)
 
